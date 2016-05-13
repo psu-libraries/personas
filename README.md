@@ -31,4 +31,12 @@ If you are unsure, submit a pull request (ask me Rob Olendorf, to help if you wa
 There may be need to cull, or edit personas. Please don't take this personally.
 
 
+### Suggestions
+
+The best way to make a suggestion is to open an issue here. You can also email me.
+
+### Help
+
+The best way to get help is open an issue here. This way the question and answer will be available for everyone. You can email me too. (Rob Olendorf)
+
 
