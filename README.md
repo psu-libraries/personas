@@ -2,7 +2,7 @@
 
 This is a repository of personas. The concept is to create reusable bunch of personas that can be used over and over again by different groups in the library (and perhaps outside). They are typically used in User Stories to provide more concrete user scenarios, although many people write user stories without them. They can also be used in other contexts as well, where it is helpful to have defined users.
 
-The personas are all in the Wiki. The Wiki home page is a directory. Each persona gets their own wiki page. You should be able to search on full text as well. (Let me know how that works).
+The personas are all in the [Wiki](/wiki). The Wiki home page is a directory. Each persona gets their own wiki page. You should be able to search on full text as well. (Let me know how that works).
 
 ## Use
 
