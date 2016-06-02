@@ -28,6 +28,16 @@ Feel free to add personas. Just try to avoid duplication. There are no hard and 
   
 If you want to edit a persona do so judiciously, but really the goal is to make this a community project.
 
+### Recommended Workflow
+
+  1. Edit the [Wiki home page](https://github.com/psu-libraries/personas/wiki) by adding a **_slug_** for the persona you wish to add as shown here `[[Random Citizen - User Tag|Random-Citizen]]`. The first part, before the vertical bar, is the name and a descriptive tag and is displayed. The second part is the URI to the persona as another Wiki Page. Github will use the second part to generate a title for the page preserving the capitals and replacing the dashes with spaces.
+  2. Save the changes, and you will see that the link is red because the link is dead. Click it and Github will generate a new page automatically at that URI.
+  3. Copy and paste the [persona template](https://github.com/psu-libraries/personas/wiki/Random-Citizen) into the editor.
+  4. Replace the image with a new one from [User Interfaces](http://uifaces.com/).
+  5. Replace the name with one from the [names list](https://github.com/psu-libraries/personas/blob/master/names.txt) and remove that name from the list.
+  6. Write the persona to suit the needs of the project you are on.
+  7. Save your changes.
+
 If you are unsure, submit a pull request (ask me Rob Olendorf, to help if you want).
 
 There may be need to cull, or edit personas. Please don't take this personally.
