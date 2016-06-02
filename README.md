@@ -43,9 +43,9 @@ If you are unsure, submit a pull request (ask me Rob Olendorf, to help if you wa
 There may be need to cull, or edit personas. Please don't take this personally.
 
 
-### Suggestions
+### Suggestions, Questions, Comments or Problems
 
-The best way to make a suggestion is to open an issue here. You can also email me.
+The best way to communicate a suggestion, question, comment, problem, or anything else is to submit an issue on this repository's [issue tracker](https://github.com/psu-libraries/personas/issues). Just click **_[New Issue]_**, write what you need to write and click **_[Submit new issue_]**. 
 
 ### Help
 
