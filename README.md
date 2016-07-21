@@ -10,6 +10,14 @@ To use them, just link to them, copy and paste, or what ever works best. I've ma
 
 ## Contributing
 
+If you want to contribute there are a few ways. 
+
+ * Ask for write access 
+ * Fork a branch then make a merge request 
+ * Submit an issue suggesting changes.
+
+If you are interested in contributing but aren't really familiar with Git, Github or markdown, please just submit an issue and ask for help.
+
 Feel free to add personas. Just try to avoid duplication. There are no hard and fast rules, but there are best practices. Here are a few.
 
   * Base them on real people.
