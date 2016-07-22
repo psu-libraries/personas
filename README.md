@@ -28,6 +28,7 @@ Feel free to add personas. Just try to avoid duplication. There are no hard and 
     * A list of names is in the files. If you use that, remove the name you used.
   * Pictures help some people 
     * [User Interfaces](http://uifaces.com/) supplies pics that people have releaesd for this use.
+    * [Profile Photos - Randomizer] (https://randomuser.me/photos) every time you click on link at the top "user photos" a new set of random photos appear.
   * Provide enough detail to make the persona useful
     * This will vary with purpose
     * The detail should help guide development of a service or feature
