@@ -18,7 +18,7 @@ If you want to contribute there are a few ways.
 
 If you are interested in contributing but aren't really familiar with Git, Github or markdown, please just submit an issue and ask for help.
 
-Feel free to add personas. Just try to avoid duplication. There are no hard and fast rules, but there are best practices. Here are a few.
+Feel free to add personas. Just try to avoid duplication. There are no hard and fast rules, but there are best practices. Here are a few. Before adding a persona, review the existing personas. If one exists that is close to what you are looking for, consider editing it to fit your needs.
 
   * Base them on real people.
     * Do research as required
@@ -26,7 +26,7 @@ Feel free to add personas. Just try to avoid duplication. There are no hard and 
   * Do not use real peoples names
     * I use a random name generator. 
     * A list of names is in the files. If you use that, remove the name you used.
-  * Pictures help some people 
+  * Pictures help some people organize and relate to the personas
     * [User Interfaces](http://uifaces.com/) supplies pics that people have releaesd for this use.
     * [Profile Photos - Randomizer] (https://randomuser.me/photos) every time you click on link at the top "user photos" a new set of random photos appear.
   * Provide enough detail to make the persona useful
@@ -34,10 +34,12 @@ Feel free to add personas. Just try to avoid duplication. There are no hard and 
     * The detail should help guide development of a service or feature
     * Some people like more fluff than others (i.e. how they enjoy work might be good, how often they walk their dog is too much?)
   * Given that these are for general use, some detail may be more important for you than others.
-  
-If you want to edit a persona do so judiciously, but really the goal is to make this a community project.
+  * If  you would like to modify an existing persona for your project but need more/different information
+    * Add new information where needed
+    * Creating a new section is fine, its just another dimension to the persona.
+    * Edit existing information judiciously as other projects may rely on it.
 
-### Recommended Workflow
+### Recommended Workflow for adding a persona
 
   1. Edit the [Wiki homepage](https://github.com/psu-libraries/personas/wiki) by adding a **_slug_** for the persona you wish to add as shown here `[[Random Citizen - User Tag|Random-Citizen]]`. The first part, before the vertical bar, is the name and a descriptive tag and is displayed. The second part is the URI to the persona as another Wiki Page. Github will use the second part to generate a title for the page preserving the capitals and replacing the dashes with spaces.
   2. Save the changes to thw Wiki homepage, and you will see that the link is red because the link is dead. Click it and Github will generate a new page automatically at that URI.
